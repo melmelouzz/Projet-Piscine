@@ -1,0 +1,32 @@
+13
+16
+aigle aigle.jpg 10 34 10
+araigne araigne.jpg 23 49 11
+campagnol campagnol.jpg 49 39 12
+chenille chenille.jpg 89 13 13
+couleuvre couleuvre.jpg 12 82 14
+grenouille grenouille.jpg 80 20 15
+herbes herbes.jpg 25 60 16
+lievre lievre.jpg 30 50 17
+marmotte marmotte.jpg 60 75 18
+mulot mulot.jpg 46 92 19
+oiseau oiseau.jpg 78 94 20
+renard renard.jpg 39 68 21
+sauterelle sauterelle.jpg 79 36 22
+herbes marmotte 20 1
+herbes lievre 19 2
+herbes sauterelle 17 3
+marmotte renard 82 4
+sauterelle grenouille 10 5
+sauterelle araigne 26 6
+sauterelle oiseau 8 7
+grenouille couleuvre 72 8
+couleuvre oiseau 69 9
+oiseau chenille 35 10
+oiseau renard 75 11
+chenille mulot 82 12
+lievre renard 17 13
+mulot renard 63 14
+renard aigle 96 15
+campagnol aigle 48 16
+
