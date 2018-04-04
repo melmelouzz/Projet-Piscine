@@ -1,0 +1,17 @@
+7
+8
+araigne araigne.jpg 10 50 30
+cloporte cloporte.jpg 29 59 31
+feuille_morte feuille_morte.jpg 39 10 32
+limace limace.jpg 79 53 33
+millepatte millepatte.jpg 10 50 34
+vegetal vegetal.jpg 20 80 35
+ver_de_terre ver_de_terre.jpg 70 99 36
+feuille_morte vegetal 82 1
+feuille_morte cloporte 13 2
+feuille_morte ver_de_terre 38 3
+vegetal limace 89 4
+limace araigne 52 5
+cloporte araigne 62 6
+ver_de_terre millepatte 42 7
+millepatte araigne 71 8

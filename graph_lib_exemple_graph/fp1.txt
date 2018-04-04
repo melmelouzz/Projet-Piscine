@@ -1,0 +1,15 @@
+6
+7
+algue algue.jpg 20 40 2 0
+asticot asticot.jpg 13 19 4 1
+puce_de_mer puce_de_mer.jpg 50 70 6 2
+tourne_pierre tourne_pierre.jpg 30 87 8 3
+perce_oreille perce_oreille.jpg 29 13 7 4
+mouche_des_sables mouche_des_sables.jpg 67 23 3 5
+0 1 75 1 
+0 2 23 2 
+1 3 12 3 
+2 3 21 4
+2 4 87 5
+2 5 47 6
+4 3 9 7
